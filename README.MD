@@ -1,0 +1,19 @@
+# RODE CLONE- USING TAILWINDCSS
+
+This is a project as a part of fullstack Javascript program.
+In this project i have made [Rode](https://rode.com/en) website using HTML and Tailwindcss.Learned more about flex containers positoning and much more by doing the project.I have used fontawsone for some of the icon as well. I had spend 7 hrs+ on this project. I have hosted my project on Netlify also.
+
+![HTML](https://img.shields.io/badge/-HTML-brightgreen) 
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-blue ) 
+![CSS](https://img.shields.io/badge/CSS-green ) 
+
+## Desktop view
+
+![Desktopview](/preview/Rode-clone-Tailwindcss%20desktop.png) 
+
+## Mobile view
+
+![Mobileview](/preview/Rode-clone-Tailwindcss-mobile.png) 
+
+
+
